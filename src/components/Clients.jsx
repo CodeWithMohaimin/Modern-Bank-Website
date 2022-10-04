@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Clint = () => {
+const Clients = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const Clint = () => {
   )
 }
 
-export default Clint
+export default Clients
