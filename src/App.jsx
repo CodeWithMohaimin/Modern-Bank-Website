@@ -1,11 +1,13 @@
-import React from 'react'
+import styles from './style';
 
-function App() {
-  return (
-    <div>
-      <h1>HEllo World</h1>
+
+const App = () =>(
+  <div className='bg-primary w-full overflow-hidden text-white'>
+    <div className={`${styles.paddingX}`}>
+
     </div>
-  )
-}
+  </div>
+)
+
 
 export default App
